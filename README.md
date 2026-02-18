@@ -29,10 +29,13 @@ Applicable to:
 
 Incident Text
       ↓
+
 LLM Prompt
       ↓
+
 Severity Classification
       ↓
+
 Business Impact + Action Recommendation
 
 Author:AJ
