@@ -27,15 +27,6 @@ Applicable to:
 
 ## Architecture
 
-Incident Text
-      ↓
-
-LLM Prompt
-      ↓
-
-Severity Classification
-      ↓
-
-Business Impact + Action Recommendation
+Incident Text-->LLM Prompt-->Severity Classification-->Business Impact + Action Recommendation
 
 Author:AJ
